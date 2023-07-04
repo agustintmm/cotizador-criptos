@@ -3,10 +3,15 @@ import styled from '@emotion/styled'
 
 const ContenedorResultado = styled.div`
     padding: 20px;
-    @media (max-width:992px){
+    @media (min-width:460px){
         display: grid;
         place-items: center;
-  }
+        margin: auto;
+    }
+    @media (min-width:992px){
+        display: block;
+        margin: auto;
+    }
 `
 const Parrafo = styled.p`
     color: white;
