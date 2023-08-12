@@ -5,7 +5,7 @@ Desarrollo de Sitio Web Responsive para Cotización de Criptomonedas en Tiempo R
 Tecnologías Utilizadas: React Vite, Styled Components, Hooks (useState, useEffect)
 
 Descripción:
-Desarrollé un sitio web altamente receptivo y dinámico que permite a los usuarios cotizar en tiempo real el precio de las 10 criptomonedas más famosas. Mi enfoque se centró en proporcionar una experiencia interactiva y visualmente atractiva.
+Sitio web altamente receptivo y dinámico que permite a los usuarios cotizar en tiempo real el precio de las 10 criptomonedas más famosas. Mi enfoque se centró en proporcionar una experiencia interactiva y visualmente atractiva.
 
 Diseño Estilizado con Styled Components:
 Para el estilo y diseño de la interfaz, utilicé Styled Components, una metodología que permitió crear componentes visualmente coherentes y atractivos. El resultado fue un diseño moderno y agradable a la vista.
