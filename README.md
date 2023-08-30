@@ -1,10 +1,21 @@
-# cotizador-criptos
-Sitio web responsive hecho con React Vite, aplicando styled components, consumiendo api´s, etc.
+<br/>
+<p align="center">
+  <h3 align="center">Cotizador de Criptomonedas</h3>
 
-Desarrollo de Sitio Web Responsive para Cotización de Criptomonedas en Tiempo Real
-Tecnologías Utilizadas: React Vite, Styled Components, Hooks (useState, useEffect)
+  <p align="center">
+    Sitio web responsive hecho con React Vite, aplicando styled components, consumiendo api´s, etc.
+    <br/>
+    <br/>
+    <a href="https://cotizador-criptomonedas-live.netlify.app">View Demo</a>
+  </p>
+</p>
 
-Descripción:
+
+
+## About The Project
+
+![Screen Shot](https://res.cloudinary.com/dfwb0gsgo/image/upload/v1693420140/Proyectos/kxsqaaffui4iestdsxfg.png)
+
 Sitio web altamente receptivo y dinámico que permite a los usuarios cotizar en tiempo real el precio de las 10 criptomonedas más famosas. Mi enfoque se centró en proporcionar una experiencia interactiva y visualmente atractiva.
 
 Diseño Estilizado con Styled Components:
@@ -15,3 +26,14 @@ Utilicé los hooks useState y useEffect para lograr una actualización dinámica
 
 Integración de Datos desde API Pública (CryptoCompare):
 Obtener información precisa fue posible gracias a la integración de una API pública llamada CryptoCompare. Esta fuente de datos proporcionó los precios y detalles actualizados de las criptomonedas, enriqueciendo la experiencia del usuario.
+
+## Tecnologias usadas
+* **React Vite**
+* **Styled Components**
+* **Fetch**
+
+## Authors
+
+* **Agustin Martinez** - *Estudiante de Ingeniería en Sistemas* - [Agustin Martinez](https://github.com/agustintmm) - **
+
+
